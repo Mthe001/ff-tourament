@@ -50,6 +50,7 @@
 }
 .title p{
     color: white;
+    font-weight: 600;
     font-size: 40px;
 }
 .title a{
@@ -111,7 +112,14 @@
     height: 80%;
 }
 
-
+.table h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.table span{
+    color:  rgb(255, 102, 0) ;
+}
 table, th, td {
   border:1px solid black;
   width: 100%;
